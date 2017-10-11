@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Portfolio Project"
-date:       2017-10-11 20:10:45 +0000
+date:       2017-10-11 16:10:46 -0400
 permalink:  sinatra_portfolio_project
 ---
 
@@ -15,7 +15,7 @@ It implements the following:
 * MCV design pattern
 * OOP design in Ruby
 * Sessions and Cookies
-* Restful routes, CRUD & 7 basic REST actions
+* Restful routes, CRUD & basic REST actions
 * Controllers in Sinatra
 * Password authentication using the Bcrypt ruby gem.
 * Rack Flash messages to display information to the user
