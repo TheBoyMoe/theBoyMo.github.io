@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Integrate authorisation into your Rails app using the Petergate gem"
-date:       2018-01-16 19:50:27 +0000
+date:       2018-01-16 14:50:27 -0500
 permalink:  integrate_authorisation_into_your_rails_app_using_the_petergate_gem
 ---
 
@@ -65,7 +65,7 @@ One last tweak is to remove the user field from the blog form partial which reqi
    @blog = current_user.blogs.build(blog_params)
 ```
 
-You can find the full demo at the following [repo](https://github.com/theBoyMo/devise-petergate-demo)
+You can find the full demo at the following [repo](https://github.com/theBoyMo/Rails-Authentication-Demo/tree/devise-petergate-demo)
 
 
 
